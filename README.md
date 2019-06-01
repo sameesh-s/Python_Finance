@@ -15,9 +15,9 @@ AI-First Finance
 
 Conda As Package Manager
 ------------------------
-sudo apt-get update 
-conda update -y conda python
-*Major functions
+sudo apt-get update   
+conda update -y conda python  
+*Major functions   
 Installing Python x.x
   conda install python=x.x
 Updating Python
