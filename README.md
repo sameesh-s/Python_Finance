@@ -133,4 +133,13 @@ Series class of pandas, which represents a special case of DataFrame class with 
 3. GroupBy Operations   
 One of the strengths of the DataFrame class lies in grouping data according to a single or multiple columns.
 4. Complex Selection  
+use of complex selection on DataFrame class.   
+
+The DataFrame Class
+-------------------
+A class designed to efficiently handle data in tabular form.  
+* Data itself can be provided in different shapes and types(list, tuple, ndarray, and dict objects are candidate).  
+* Data is organized in columns, which can have custom names(labels).  
+* There is an index that can take on differenct formats (e.g. numbers, strings, time information)   
+
  
